@@ -1,4 +1,4 @@
-#**Fashion-Visual-Search-Intelligent-Styling-Assistant**
+# **Fashion-Visual-Search-Intelligent-Styling-Assistant**
 
 
 This project implements a machine learning system for fashion visual search and intelligent outfit recommendations based on the provided dataset of dresses and jeans.
