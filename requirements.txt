@@ -1,0 +1,16 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+
+pandas
+requests
+Pillow
+torch
+torchvision
+torchaudio
+faiss-cpu
+streamlit
+numpy
+scikit-learn
+faiss-cpu 
+fastapi 
+uvicorn 
+python-multipart
